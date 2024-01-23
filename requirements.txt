@@ -1,0 +1,4 @@
+urllib3
+colorama
+requests
+secrets
