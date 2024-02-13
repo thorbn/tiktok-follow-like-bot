@@ -103,7 +103,7 @@ def boostFollowers(name: str):
         'coins_per_unit': '10',
         'required': '100',
         'service_id': 2,
-        'tiktok_username': name
+        'tiktok_username': @steemaxx
     }
 
     while True:
